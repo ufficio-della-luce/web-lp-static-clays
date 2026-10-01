@@ -1,6 +1,6 @@
 # web-lp-static-clays
 
-![トップページのスクリーンショット](docs/screenshot.png)
+![トップページのスクリーンショット](docs/screenshot.jpg)
 
 
 - 元リポ: ufficio-della-luce/CW_LP_clays

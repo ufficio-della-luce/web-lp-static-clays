@@ -1,0 +1,100 @@
+@media screen and (max-width: 768px) {
+  .pc {
+    display: none;
+  }
+  .sp {
+    display: block;
+  }
+  body {
+    padding: 0 3vw;
+    overflow-x: hidden;
+  }
+  .contact_form.small {
+    display: none;
+  }
+  header .header_img {
+    width: 100px;
+    margin: 0 0 0 -6px;
+  }
+  header {
+    height: 90px;
+  }
+  .speak_m_wrap {
+    margin-top: 60px;
+  }
+  .speak_s_img {
+    width: 67%;
+    position: relative;
+    left: 30.66%;
+  }
+  .needs01 .needs_eng {
+    font-size: 13px;
+    top: 30%;
+    left: 40%;
+  }
+  .needs01 .needs {
+    font-size: 5vw;
+    top: 44%;
+    left: 35%;
+  }
+  .needs_ttl {
+    width: 90%;
+    margin: 20px auto 40px;
+    font-size: 5.3vw;
+    line-height: 46px;
+  }
+  .needs_dsc {
+    margin-left: 6%;
+    font-size: 17px;
+    line-height: 27px;
+  }
+  .movie_img {
+    left: 50%;
+    width: 40%;
+    bottom: 32px;
+  }
+  .needs02 {
+    top: 8.5%;
+    left: 7%;
+    font-size: 4vw;
+  }
+  .speak_l_wrap {
+    margin-top: 0;
+  }
+  .speak_l_wrap > img {
+    width: 100%;
+  }
+  .needs_img {
+    margin: 0 auto 60px;
+    width: 94%;
+  }
+  .cta_ttl {
+    font-size: 6vw;
+  }
+  .cta_dsc {
+    font-size: 18px;
+    letter-spacing: 2px;
+  }
+  .contact_form.large {
+    padding: 14px 4vw 27px;
+    width: 90%;
+  }
+  .speak_l_wrap img.logo_float01,
+  .speak_l_wrap img.logo_float02,
+  .speak_l_wrap img.logo_float03,
+  .speak_l_wrap img.logo_float05,
+  .speak_l_wrap img.logo_float04 {
+    width: 130px;
+    z-index: -10;
+  }
+  .contact_form.small {
+    display: none;
+  }
+  .footer_logo_img {
+    width: 80px;
+    margin-top: 10px;
+    padding: 22px 0;
+    margin: 10px auto 0;
+  }
+}
+
